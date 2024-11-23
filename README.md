@@ -20,6 +20,6 @@ The **Linux Script Repository** serves as a centralized collection of scripts de
 ### Cloning the Repository
 To get started, clone this repository:
 ```bash
-git clone -b dev-main https://github.com/your-username/linux-script-repo.git
+git clone -b dev-main https://github.com/mrhudson69/linux-script-repo.git
 cd linux-script-repo
 ```
